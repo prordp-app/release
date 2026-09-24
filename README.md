@@ -130,5 +130,5 @@ ProRDP source, which is not public.
 
 <div align="center">
 <br>
-<sub>© 2026 Aaron Crawfis. ProRDP is free for personal use and not licensed for business or enterprise use.</sub>
+<sub>© 2026 ProBit LLC. ProRDP is free for personal use and not licensed for business or enterprise use.</sub>
 </div>
