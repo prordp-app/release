@@ -104,7 +104,7 @@ warnings.
 
 This is a summary. The [LICENSE](LICENSE) file is what applies.
 
-| ✅ Free, no license needed | ❌ Needs a commercial license |
+| ✅ Free for personal use (no commercial license needed) | ❌ Needs a commercial license |
 | --- | --- |
 | Reaching your own Mac from home or on the road | Using it on a work-owned or managed Mac |
 | Hobby projects, learning, tinkering | Supporting or administering an organization's computers |
