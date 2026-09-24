@@ -4,12 +4,14 @@
 
 # ProRDP
 
-**A native RDP server for macOS.**<br>
+**A native RDP server for macOS**<br>
 Connect from Windows Remote Desktop, the Windows App, or FreeRDP and drive your Mac as if you were sitting at it.
 
 [![Download ProRDP](https://img.shields.io/github/v/release/prordp-app/release?include_prereleases&label=Download&style=for-the-badge&logo=apple&color=0071e3)](https://github.com/prordp-app/release/releases/latest)
 
 [Website](https://prordp.app) · [Documentation](https://prordp.app/docs/) · [Release notes](https://github.com/prordp-app/release/releases) · [License](LICENSE)
+
+Free for home + personal use
 
 <br>
 
@@ -20,11 +22,6 @@ Connect from Windows Remote Desktop, the Windows App, or FreeRDP and drive your 
 </picture>
 
 </div>
-
-> [!IMPORTANT]
-> **ProRDP is free for home and personal use.** It is not licensed for business, commercial,
-> or enterprise use. For an organization license, contact [hello@prordp.app](mailto:hello@prordp.app).
-> See [LICENSE](LICENSE) for the full terms.
 
 ## Download
 
@@ -53,29 +50,27 @@ warnings.
   <tr>
     <td width="50%" valign="top">
       <img src=".github/assets/icons/chip.svg" width="32" height="32" alt=""><br>
-      <b>Hardware encode, end to end</b><br>
+      <b>End to end hardware encoding</b><br>
       Capture and encode run on the GPU and the media engine through VideoToolbox, so your CPU
       never touches raw pixels.
     </td>
     <td width="50%" valign="top">
       <img src=".github/assets/icons/display.svg" width="32" height="32" alt=""><br>
-      <b>A real desktop, at the right size</b><br>
-      Sessions run on a headless virtual display created at the client's exact resolution. Resize
-      the window and the desktop follows. Use all your monitors and each gets a macOS display of its own.
+      <b>Flexible resolutions and scaling</b><br>
+      Connect to a headless virtual display created at the client's exact resolution, without any stretching, scaling, or black bars.
     </td>
   </tr>
   <tr>
     <td valign="top">
       <img src=".github/assets/icons/plug.svg" width="32" height="32" alt=""><br>
-      <b>Any RDP client</b><br>
+      <b>Built for Windows RDP</b><br>
       Stock Windows Remote Desktop connects with default settings: no <code>.rdp</code> edits, no
       plugin, no companion app.
     </td>
     <td valign="top">
       <img src=".github/assets/icons/lock.svg" width="32" height="32" alt=""><br>
-      <b>Yours alone</b><br>
-      TLS and Network Level Authentication, with a ProRDP-only password or your macOS account.
-      Secrets live in your keychain. Direct connections, no relay, no account, no telemetry.
+      <b>Fully local. No cloud accounts.</b><br>
+      Direct connections within your network. No relay, no account, no telemetry.
     </td>
   </tr>
   <tr>
@@ -99,9 +94,8 @@ warnings.
     </td>
     <td valign="top">
       <img src=".github/assets/icons/pulse.svg" width="32" height="32" alt=""><br>
-      <b>Live performance view</b><br>
-      Graphs for frame rate, encode time, and bitrate, plus whether the media engine or your CPU is
-      doing the encoding.
+      <b>Adaptive performance</b><br>
+      Real time tuning of your frame rate, bit rate, and compression to ensure the best possible performance.
     </td>
   </tr>
 </table>
