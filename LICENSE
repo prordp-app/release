@@ -1,0 +1,103 @@
+ProRDP Personal Use License
+
+Copyright (c) 2026 Aaron Crawfis. All rights reserved.
+
+ProRDP is free to download and use at home, for your own personal,
+non-commercial purposes. It is not licensed for business, commercial,
+government, educational-institution, or enterprise use.
+
+This license covers the ProRDP application and the release files published in
+this repository (together, the "Software"). By installing or using the
+Software you agree to these terms. If you do not agree, do not install or use
+it.
+
+
+1. What you may do
+
+   You may download, install, and run the Software, on as many Macs as you
+   personally own or control, for personal, non-commercial use. Personal use
+   means use by an individual for their own purposes, such as reaching a Mac
+   at home from another computer, hobby projects, or learning.
+
+
+2. What this license does not permit
+
+   a. Business and enterprise use. You may not use the Software:
+
+        - on a computer owned, leased, or managed by a business, non-profit,
+          government body, school, or other organization;
+        - to access, administer, or support computers for an organization,
+          its employees, or its customers;
+        - for any work you are paid to do, including freelance and contract
+          work; or
+        - as part of, or to deliver, any product or service offered to
+          others, whether or not you charge for it.
+
+      Organizations that want to use ProRDP need a separate commercial
+      license. Contact hello@prordp.app.
+
+   b. Redistribution. You may not sell, rent, lease, sublicense, or
+      redistribute the Software, or host copies of it for others to
+      download. Link to this repository or to https://prordp.app instead.
+
+   c. Modification. You may not modify, adapt, translate, or create
+      derivative works of the Software, or reverse engineer, decompile, or
+      disassemble it, except to the extent applicable law expressly permits
+      this despite this limitation.
+
+   d. Notices. You may not remove or alter any copyright, trademark, or
+      license notice in the Software.
+
+
+3. Ownership
+
+   The Software is licensed, not sold. The copyright holder keeps all rights,
+   title, and interest in the Software, including all intellectual property
+   rights. The ProRDP name and logo are not licensed for any use under this
+   license. Any rights not expressly granted here are reserved.
+
+
+4. Updates and changes
+
+   Updates may be released under this license or under revised terms. Each
+   version of the Software is governed by the license published with it.
+   Future versions may add, change, or remove features, and nothing in this
+   license promises that the Software will stay free or keep any feature.
+
+
+5. Third-party components
+
+   The Software may include third-party components that are provided under
+   their own licenses. Those licenses govern those components.
+
+
+6. Termination
+
+   This license ends automatically if you break any of its terms. When it
+   ends, you must stop using the Software and delete every copy you have.
+   Sections 3, 7, and 8 survive termination.
+
+
+7. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE ENTIRE
+   RISK AS TO THE QUALITY, SECURITY, AND PERFORMANCE OF THE SOFTWARE IS WITH
+   YOU. The Software grants remote access to your computer; you are
+   responsible for how you configure, expose, and secure it.
+
+
+8. Limitation of liability
+
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+   COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+   INCLUDING ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+   EXEMPLARY DAMAGES, OR LOSS OF DATA, PROFITS, OR USE, WHETHER IN AN ACTION
+   OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+   WITH THE SOFTWARE OR THE USE OF OR OTHER DEALINGS IN THE SOFTWARE, EVEN IF
+   ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+Questions about this license, or about licensing ProRDP for an organization:
+hello@prordp.app
